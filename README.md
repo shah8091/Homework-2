@@ -5,7 +5,7 @@
           The intention of creating this  project is to prove my full  understanding 
           on html,css and bootstrap.
 
- # Code style:
+ # Frame work:
           Bootstrap.
 
  # Screen shots:

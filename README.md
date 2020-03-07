@@ -1,12 +1,23 @@
 # Homework-2
+ # project title:            Bootstrap Homework-2
 
- #                   Boostrap Homework                        #
-
-
- # Motivation:
+ # Motivation: 
+          The intention of creating this  project is to prove my full  understanding 
+          on html,css and bootstrap.
 
  # Code style:
+          Bootstrap.
 
  # Screen shots:
 
- # test:
+ # Expection/test:
+       Index file: My name should be  on the left corner .
+                    About me should be right below from "my name"
+                    And on the top right corner on my navbar there should be 
+                    "About, Portfolio, Contact"
+                    and all those "button should be click able.
+        
+        Portfolio: 
+
+
+        Contact  : 

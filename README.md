@@ -17,7 +17,10 @@
                     "About, Portfolio, Contact"
                     and all those "button should be click able.
         
-        Portfolio: 
+        Portfolio: Coming soon :)
+
+        Contact: Contact should have forms which includes my Name, Email and 
+phone number .
 
 
-        Contact  : 
+
